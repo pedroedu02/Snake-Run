@@ -30,26 +30,21 @@
 ## 📸 Prints da Aplicação e Banco de Dados
 `Tela de Início (Play):`\
 \
-![Tela de Início](https://github.com/carosla/Jogo_FujaDaCobra/blob/main/Prints/Aplicação/Tela%20de%20Inicio.png)
+![Tela de Início](https://github.com/pedroedu02/Snake-Run/blob/main/Imagens%20e%20Videos%20-%20GAME/Iniciar.png)
 
 `Durante Game:`\
 \
-![Jogo](https://github.com/carosla/Jogo_FujaDaCobra/blob/main/Prints/Aplicação/Jogo.png)
+![Jogo](https://github.com/pedroedu02/Snake-Run/blob/main/Imagens%20e%20Videos%20-%20GAME/Tela%20jogo.png)
 
 `Final - Game Over:`\
 \
-![Game Over](https://github.com/carosla/Jogo_FujaDaCobra/blob/main/Prints/Aplicação/Game%20Over.png)
-
-`Imagem de dados do BD:`\
-\
-![Banco](https://github.com/carosla/Jogo_FujaDaCobra/blob/main/Prints/Banco%20de%20Dados/Dados%20no%20Firebase.png)
-
+![Game Over](https://github.com/pedroedu02/Snake-Run/blob/main/Imagens%20e%20Videos%20-%20GAME/Game%20over%20.png)
 
 ## 🔗 Link para acesso ao jogo online
 
-[Acesse o jogo aqui](https://carosla.itch.io/fuja-das-cobras)
+[Acesse o jogo aqui](https://pedroedu02.itch.io/snake-run)
 
 
 ## ✒️ Autores
 
-- **Desenvolver** - [Pedro Eduardo Garcia Silva](https://www.linkedin.com/in/anacarolinaneias/)
+- **Desenvolver** - [Pedro Eduardo Garcia Silva](https://github.com/pedroedu02)
